@@ -5,7 +5,7 @@ This course assumes that you have a decent grasp on the fundamentals of JavaScri
 
 ### Review
 
-Running through "part one" of [MDN's JavaScript basics course](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) is a great idea for a refresher on the syntax. If you just want a quick reference to skim, try [LearnXinY](https://learnxinyminutes.com/docs/javascript/).
+Running through "Part One" of [MDN's JavaScript basics course](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics) is a great idea for a refresher on the syntax. If you just want a quick reference to skim, try [LearnXinY](https://learnxinyminutes.com/docs/javascript/).
 
 Try not to worry too much about forgetting past materials after not using them for a while. As you progress through the curriculum, you will almost certainly find yourself needing to look up topics covered in Foundations that you haven't touched upon in a while. This isn't indicative of any shortcoming on your end; it's just part of being a developer.
 
